@@ -1,4 +1,4 @@
-# 📚 Temario de Introducción a la Programación 🚀
+# 📚 Introducción a la Programación: Contenidos 🚀
 
 ---
 

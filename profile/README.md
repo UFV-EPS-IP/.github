@@ -2,7 +2,7 @@
 
 ---
 
-## **1. Introducción a la Programación: Conceptos Básicos** ✨
+## **1. Conceptos Básicos** ✨
 
 * **Algoritmos + Estructuras de datos = Programas.** La fórmula fundamental.
 * **Lenguajes, paradigmas de programación y entornos de desarrollo.** Tu caja de herramientas.
